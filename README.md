@@ -1,7 +1,8 @@
 # 0x69-Spoofer-Recode
 0x69-Spoofer recoded by me
 
-TERMUX:
+TERMUX INSTALATION:
+
 $pkg install python
 
 $pkg install git
