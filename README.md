@@ -1,7 +1,7 @@
 # 0x69-Spoofer-Recode
 A Variant of https://github.com/0xffvirus/0x69-Spoofer!
 
-TERMUX INSTALATION:
+TERMUX INSTALL:
 
 $pkg install python
 
